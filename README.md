@@ -50,6 +50,6 @@ The code can be run in Google Colab [![Open In Colab](https://colab.research.goo
 
 ## References
 
-[1] Uselis, Arnas, Mantas Lukoševičius, and Lukas Stasytis. "Localized Convolutional Neural Networks for Geospatial Wind Forecasting". 2020. [[arxiv]](https://arxiv.org/abs/2005.05930v2)
+[1] Uselis, Arnas, Mantas Lukoševičius, and Lukas Stasytis. "Localized Convolutional Neural Networks for Geospatial Wind Forecasting". 2020. [[arxiv]](https://arxiv.org/abs/2005.05930)
 
 [2] Ghaderi, Amir, Borhan M. Sanandaji, and Faezeh Ghaderi. "Deep forecast: deep learning-based spatio-temporal forecasting". 2017. [[arxiv]](https://arxiv.org/abs/1707.08110)
